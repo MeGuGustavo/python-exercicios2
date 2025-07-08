@@ -1,2 +1,2 @@
-# python-exercicios-semana2
-Exercícios da segunda semana do plano de estudos em Python
+# python-exercicios2
+Segunda sequência de exercícios feitos no plano de estudos python.
